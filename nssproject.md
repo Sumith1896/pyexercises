@@ -1,4 +1,3 @@
-->#NSS Project<-
-##-Sumith
+#->NSS Project<-
 
 ###Abstract
