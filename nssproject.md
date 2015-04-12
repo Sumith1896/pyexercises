@@ -4,11 +4,11 @@
 Survey about newspaper disposal in hostels and plan a small model for disposal of the same.
 
 ###Approach
-Each hostel council was approached and a questionnaire was put forward
-1. What is the number of newspapers that you get everyday?
-2. How is it disposed at the end of the day?
-3. Is somebody from the council responsible for looking after this system?
-4. Their views about disposal scheme applied in other hostels.
+Each hostel council was approached and a questionnaire was put forward<br/>
+1. What is the number of newspapers that you get everyday?<br/>
+2. How is it disposed at the end of the day?<br/>
+3. Is somebody from the council responsible for looking after this system?<br/>
+4. Their views about disposal scheme applied in other hostels.<br/>
 5. Are you willing to adopt a new model, if NSS comes up with one?
 
 ###Survey result
@@ -19,9 +19,9 @@ Answer to question 5 being that if the model is good and if pitched convincingly
 ###H15
 **Information Source**: Prasanna Tare(Warden Nominee)<br/>
 **No. of newspapers**: 15<br/>
-**Scene**: PHO workers take it who later sell but in a very irregular basis, else the newspapers are thrown in waste. The irregularity is because PHO workers have not been officially told to do this. Before it used to happen that they were sold by the hostel council and the money was added to hostel amenities fund but then it was stopped because
-1. There was nobody to follow up.
-2. The money got hardly made a difference to funds.
+**Scene**: PHO workers take it who later sell but in a very irregular basis, else the newspapers are thrown in waste. The irregularity is because PHO workers have not been officially told to do this. Before it used to happen that they were sold by the hostel council and the money was added to hostel amenities fund but then it was stopped because<br/>
+1. There was nobody to follow up.<br/>
+2. The money got hardly made a difference to funds.<br/>
 
 ###H1
 **Information Source**: Jambeswa(Lib. and Lit Secy)<br/>
@@ -83,26 +83,26 @@ Overall we see that two methods are followed largely, both have pros and cons
 ####Method 1 : PHO
 PHO are given liberty to collect it, sell it and keep the money.
 #####Pros
-1. PHO workers get an incentive to keep all the newspapers collected and clean.
+1. PHO workers get an incentive to keep all the newspapers collected and clean.<br/>
 2. The money obtained hardly affects the hostel funds but will be of value to some poor PHO workers.
 #####Cons
 1. Make sure that the distribution equally among PHO workers
 ####Method 2 : Hostel 
 Hostel keeps it, sells it at the end of month, money goes to hostel amenities fund else the newspaper is used for other purposes.
 #####Pros
-1. Hostel pays for newspapers, hence gets back considerable amount back by selling.
-2. Newspapers are used a lot in PAF.
+1. Hostel pays for newspapers, hence gets back considerable amount back by selling.<br/>
+2. Newspapers are used a lot in PAF.<br/>
 3. PHO workers are given bonus from hostel funds anyways, hence forming a loop.
 #####Cons
-1. Somebody should follow up on whether the newspaper is collected or not.
+1. Somebody should follow up on whether the newspaper is collected or not.<br/>
 2. Hard to make sure the money actually goes to the fund or elsewhere.
 
 There is no clear cut winner but in my personal say PHO workers is a better method and in my hostel I encourage this atleast. 
 
 ###What could be done?
-This project can be extended and hence can near to completion in the following ways
-1. Collect information from more hostels.
-2. Present this in front of concerned authorities and student heads and have a open debate with these people together where some conclusion can be reached.
+This project can be extended and hence can near to completion in the following ways<br/>
+1. Collect information from more hostels.<br/>
+2. Present this in front of concerned authorities and student heads and have a open debate with these people together where some conclusion can be reached.<br/>
 3. Then, all the hostel council should be encouraged to adopt this model.
 
 ###Acknowledgements
