@@ -82,17 +82,22 @@ On an average, papers for 1 month weigh 25 - 30 kg. Most raddhiwallas (scrap dea
 Overall we see that two methods are followed largely, both have pros and cons
 ####Method 1 : PHO
 PHO are given liberty to collect it, sell it and keep the money.
+
 #####Pros
-1. PHO workers get an incentive to keep all the newspapers collected and clean.<br/>
+1. PHO workers get an incentive to keep all the newspapers collected and clean.
 2. The money obtained hardly affects the hostel funds but will be of value to some poor PHO workers.
+
 #####Cons
-1. Make sure that the distribution equally among PHO workers
+1. Make sure that the distribution equally among PHO workers.
+
 ####Method 2 : Hostel 
 Hostel keeps it, sells it at the end of month, money goes to hostel amenities fund else the newspaper is used for other purposes.
+
 #####Pros
 1. Hostel pays for newspapers, hence gets back considerable amount back by selling.<br/>
 2. Newspapers are used a lot in PAF.<br/>
 3. PHO workers are given bonus from hostel funds anyways, hence forming a loop.
+
 #####Cons
 1. Somebody should follow up on whether the newspaper is collected or not.<br/>
 2. Hard to make sure the money actually goes to the fund or elsewhere.
