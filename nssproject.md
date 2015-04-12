@@ -66,7 +66,7 @@ Answer to question 5 being that if the model is good and if pitched convincingly
 ###H13
 **Information Source**: Raj Kumar Yadav(General Secretary)<br/>
 **No. of newspapers**: 20<br/>
-**Scene**: The newspapers collected are sold at the end of the month and the money is added to the hostel funds. Doesn't actually feels the need to change the mechanisms and shift to PHO because PHO workers are anyway given bonus by hostel on occasions like Diwali and other festivals.
+**Scene**: The newspapers collected are sold at the end of the month and the money is added to the hostel funds. Doesn't actually feel the need to change the mechanism and shift to PHO because PHO workers are anyway given bonus by hostel on occasions like Diwali and other festivals.
 
 ###H14
 **Information Source**: Mayuresh Pant(General Secretary)<br/>
