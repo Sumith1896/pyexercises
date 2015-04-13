@@ -102,7 +102,20 @@ Hostel keeps it, sells it at the end of month, money goes to hostel amenities fu
 1. Somebody should follow up on whether the newspaper is collected or not.<br/>
 2. Hard to make sure the money actually goes to the fund or elsewhere.
 
-There is no clear cut winner but in my personal say PHO workers is a better method and in my hostel I encourage this atleast. 
+####New Method - NSS 
+Hostels council is said to collect the newspapers regularly and NSS collects hostel to hostel and sells it. NSS can donate the money obtained to NGOs. PHO workers have salaries atleast and this money can be of use to the ones who don't. 
+
+#####Feasibility
+
+**Expenses**<br/>
+Assuming on an average we get 12 newspapers per day per hostel, some hostels have around 8 while most others have around 20, hence 12 is pretty decent approximation including loss of newspapers etc. Assume the distribution to be 6 English and 6 non-English newspapers.<br/>
+One month of newspaper weighs around 25-30 kg. Assuming lower side of 25. And a price of Rs 5.5 per kg of English and Rs 4 per kg for others. We get (25*5.5*6 + 25*4*6)*15 assuming 15 hostels(though more, lower side approximation), i.e Rs. 21375. Doing a lower side approximation again and removing all the transportation costs incurred by NSS. We get roughly Rs. 20000 every month which can be donated to the NGOs, which will help them greatly.
+
+**Approval**<br/>
+As selling any institute property is not allowed, approval from the concerned authorities is needed. This should not be a problem for NSS and a good initiative like this.
+
+**Council**<br/>
+The councils were willing to adopt any new idea if it is feasible and helpful. Again the idea should get approved, be well framed and should be pitched convincingly.
 
 ###What could be done?
 This project can be extended and hence can near to completion in the following ways<br/>
